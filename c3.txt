@@ -1,0 +1,806 @@
+3)M
+3)Amoeba
+3)In unicellular organisms, reproduction and growth are linked together
+3)The metabolic reactions can be demonstrated 
+3)Self-regulating interactive systems
+3)The growth is due to the accumulation of material on the surface
+3)Are specific and distinct names
+3)Biological names are printed in italics
+3)Author’s name, specific name and generic name
+3)These have two components – the generic name and specific epithet
+3)Two names, one Latin and other common
+3)Human beings belong to the species 
+3)Evolutionary relationships between organisms
+3)They always have “linn” abbreviation at the end of second component
+3)First nomenclature then characterization, identification and classification
+3)Generic name must begin with capital letter
+3)Class 
+3)Primate
+3)S
+3)A - Class; B - Family
+3)a(ii), b(i), c(i), d(iii)
+3)Hominidae
+3)Poaceae and Canidae
+3)External and internal structure
+3)Division and ph
+3)Solanum, 
+3)Solunum, Petunia
+3)Division, family, order, genus
+3)One biological genera
+3)Museum
+3)Preserved insects in boxes after collecting killing and pinning
+3)Flora, manuals and monographs only
+3)A taxonomical aid used for identifying various organisms
+3)Kept in protected environments under human care
+3)Two or more similar characters are used
+3)Intrinsic growth is a characteristic of all living organisms
+3)Cyanobacteria, fungi and mosses
+3)Described nearly ten thousand plants and animal species
+3)Two Latin names and author's name in Italics
+3)Identification and grouping of organisms
+3)External and internal structure
+3)Hortus Cliffortianus
+3)Synonyms
+3)Four
+3)Genus
+3)Phylum—order—class—tribe—family—genus—species
+3)Do not grow together in a common habitat
+3)Polygamic
+3)Solanum, Petunia and Atrop
+3)Division and phylum
+3)Different category of same taxa
+3)Mammalia and Insecta
+3)-phyceae
+3)Ernst Mayr; mechanical isolation
+3)Class
+3)They both are morphologically and structurally similar to each other in all respects
+3)Related orders like carnivora, primata, etc.
+3)Division – Angiospermae
+3)The first word in a biological name represents the genus name and the second is a specific epithet
+3)Key is a taxonomic aid for identification of specimens
+3)Each species is reproductively isolated from every other species
+3)They allow 
+3)Amoeba
+3)Self-regulating interactive systems
+3)The growth is due to the accumulation of material on the surface
+3)Are specific and distinct names
+3)Biological names are printed in italics
+3)Author’s name, specific name and generic name
+3)These have two components – the generic name and specific epithet
+3)Two names, one Latin and other common
+3)Human beings belong to the species 
+3)Evolutionary relationships between organisms
+3)They always have “linn” abbreviation at the end of second component
+3)First nomenclature then characterization, identification and classification
+3)Generic name must begin with capital letter
+3)Class 
+3)Primate
+3)S
+3)A - Class; B - Family
+3)a(ii), b(i), c(i), d(iii)
+3)Hominidae
+3)Poaceae and Canidae
+3)External and internal structure
+3)Division and ph
+3)Solanum, 
+3)Solunum, Petunia
+3)Division, family, order, genus
+3)One biological genera
+3)Museum
+3)Preserved insects in boxes after collecting killing and pinning
+3)Flora, manuals and monographs only
+3)A taxonomical aid used for identifying various organisms
+3)Kept in protected environments under human care
+3)Two or more similar characters are used
+3)Intrinsic growth is a characteristic of all living organisms
+3)Cyanobacteria, fungi and mosses
+3)Described nearly ten thousand plants and animal species
+3)Two Latin names and author's name in Italics
+3)Identification and grouping of organisms
+3)External and internal structure
+3)Hortus Cliffortianus
+3)Synonyms
+3)Four
+3)Genus
+3)Phylum—order—class—tribe—family—genus—species
+3)Do not grow together in a common habitat
+3)Polygamic
+3)Solanum, Petunia and Atrop
+3)Division and phylum
+3)Different category of same taxa
+3)Mammalia and Insecta
+3)-phyceae
+3)Ernst Mayr; mechanical isolation
+3)Class
+3)They both are morphologically and structurally similar to each other in all respects
+3)Related orders like carnivora, primata, etc.
+3)Division – Angiospermae
+3)“phyta”
+3)International codes used for nomenclature
+3)Division
+3)Two
+3)c, a, b, e, g, f, d
+3)a(iv), b(i), c(iii), d(ii)
+3)Botanical gardens
+3)Local names
+3)A 
+3)The first word in a biological name represents the genus name and the second is a specific epithet
+3)Key is a taxonomic aid for identification of specimens
+3)Animalia
+3)Isolated metabolic reactions occur 
+3)Interaction with the environment and progressive evolution
+3)International Code of Botanical Nomenclature
+3)Have more than 90 per cent similar genes
+3)The classification of organisms based on their evolutionary history and establishing their phylogeny on
+3)A list of botanists or zoologists who have worked on taxonomy of a species or group
+3)S
+3)Clines
+3)Class
+3)Artificial concept of human mind which cannot be defined in absolute terms
+3)Each species is reproductively isolated from every other species
+3)They allow 
+3)Amoeba3)Self-regulating interactive systems
+3)The growth is due to the accumulation of material on the surface
+3)Are specific and distinct names
+3)Biological names are printed in italics
+3)Author’s name, specific name and generic name
+3)These have two components – the generic name and specific epithet
+3)Two names, one Latin and other common
+3)Human beings belong to the species 
+3)Evolutionary relationships between organisms
+3)They always have “linn” abbreviation at the end of second component
+3)First nomenclature then characterization, identification and classification
+3)Generic name must begin with capital letter
+3)Class 
+3)Primate
+3)S
+3)A - Class; B - Family
+3)a(ii), b(i), c(i), d(iii)
+3)Hominidae
+3)Poaceae and Canidae
+3)External and internal structure
+3)Division and ph
+3)Solanum, 
+3)Solunum, Petunia
+3)Division, family, order, genus
+3)One biological genera
+3)Museum
+3)Preserved insects in boxes after collecting killing and pinning
+3)Flora, manuals and monographs only
+3)A taxonomical aid used for identifying various organisms
+3)Kept in protected environments under human care
+3)Two or more similar characters are used
+3)Intrinsic growth is a characteristic of all living organisms
+3)Cyanobacteria, fungi and mosses
+3)Described nearly ten thousand plants and animal species
+3)Two Latin names and author's name in Italics
+3)Identification and grouping of organisms
+3)External and internal structure
+3)Hortus Cliffortianus
+3)Synonyms
+3)Four
+3)Genus
+3)Phylum—order—class—tribe—family—genus—species
+3)Do not grow together in a common habitat
+3)Polygamic
+3)Solanum, Petunia and Atrop
+3)Division and phylum
+3)Different category of same taxa
+3)Mammalia and Insecta
+3)-phyceae
+3)Ernst Mayr; mechanical isolation
+3)Class
+3)They both are morphologically and structurally similar to each other in all respects
+3)Related orders like carnivora, primata, etc.
+3)Division – Angiospermae
+3)“phyta”
+3)International codes used for nomenclature
+3)Division
+3)Two
+3)c, a, b, e, g, f, d
+3)a(iv), b(i), c(iii), d(ii)
+3)Botanical gardens
+3)Local names
+3)A 
+3)The first word in a biological name represents the genus name and the second is a specific epithet
+3)Key is a taxonomic aid for identification of specimens
+3)Animalia
+3)Isolated metabolic reactions occur 
+3)Interaction with the environment and progressive evolution
+3)International Code of Botanical Nomenclature
+3)Have more than 90 per cent similar genes
+3)The classification of organisms based on their evolutionary history and establishing their phylogeny on
+3)A list of botanists or zoologists who have worked on taxonomy of a species or group
+3)S
+3)Clines
+3)Class
+3)Artificial concept of human mind which cannot be defined in absolute terms
+3)Each species is reproductively isolated from every other species
+3)They allow 
+3)Amoeba3)Self-regulating interactive systems
+3)The growth is due to the accumulation of material on the surface
+3)Are specific and distinct names
+3)Biological names are printed in italics
+3)Author’s name, specific name and generic name
+3)These have two components – the generic name and specific epithet
+3)Two names, one Latin and other common
+3)Human beings belong to the species 
+3)Evolutionary relationships between organisms
+3)They always have “linn” abbreviation at the end of second component
+3)First nomenclature then characterization, identification and classification
+3)Generic name must begin with capital letter
+3)Class 
+3)Primate
+3)S
+3)A - Class; B - Family
+3)a(ii), b(i), c(i), d(iii)
+3)Hominidae
+3)Poaceae and Canidae
+3)External and internal structure
+3)Division and ph
+3)Solanum, 
+3)Solunum, Petunia
+3)Division, family, order, genus
+3)One biological genera
+3)Museum
+3)Preserved insects in boxes after collecting killing and pinning
+3)Flora, manuals and monographs only
+3)A taxonomical aid used for identifying various organisms
+3)Kept in protected environments under human care
+3)Two or more similar characters are used
+3)Intrinsic growth is a characteristic of all living organisms
+3)Cyanobacteria, fungi and mosses
+3)Described nearly ten thousand plants and animal species
+3)Two Latin names and author's name in Italics
+3)Identification and grouping of organisms
+3)External and internal structure
+3)Hortus Cliffortianus
+3)Synonyms
+3)Four
+3)Genus
+3)Phylum—order—class—tribe—family—genus—species
+3)Do not grow together in a common habitat
+3)Polygamic
+3)Solanum, Petunia and Atrop
+3)Division and phylum
+3)Different category of same taxa
+3)Mammalia and Insecta
+3)-phyceae
+3)Ernst Mayr; mechanical isolation
+3)Class
+3)They both are morphologically and structurally similar to each other in all respects
+3)Related orders like carnivora, primata, etc.
+3)Division – Angiospermae
+3)“phyta”
+3)International codes used for nomenclature
+3)Botanical gardens
+3)Local names
+3)A 
+3)The first word in a biological name represents the genus name and the second is a specific epithet
+3)Key is a taxonomic aid for identification of specimens
+3)Animalia
+3)Isolated metabolic reactions occur 
+3)Interaction with the environment and progressive evolution
+3)International Code of Botanical Nomenclature
+3)Have more than 90 per cent similar genes
+3)The classification of organisms based on their evolutionary history and establishing their phylogeny on
+3)A list of botanists or zoologists who have worked on taxonomy of a species or group
+3)S
+3)Clines
+3)Class
+3)Artificial concept of human mind which cannot be defined in absolute terms
+3)Each species is reproductively isolated from every other species
+3)They allow 
+3)Amoeba3)Self-regulating interactive systems
+3)The growth is due to the accumulation of material on the surface
+3)Are specific and distinct names
+3)Biological names are printed in italics
+3)Author’s name, specific name and generic name
+3)These have two components – the generic name and specific epithet
+3)Two names, one Latin and other common
+3)Human beings belong to the species 
+3)Evolutionary relationships between organisms
+3)They always have “linn” abbreviation at the end of second component
+3)First nomenclature then characterization, identification and classification
+3)Generic name must begin with capital letter
+3)Class 
+3)Primate
+3)S
+3)A - Class; B - Family
+3)a(ii), b(i), c(i), d(iii)
+3)Hominidae
+3)Poaceae and Canidae
+3)External and internal structure
+3)Division and ph
+3)Solanum, 
+3)Solunum, Petunia
+3)Division, family, order, genus
+3)One biological genera
+3)Museum
+3)Preserved insects in boxes after collecting killing and pinning
+3)Flora, manuals and monographs only
+3)A taxonomical aid used for identifying various organisms
+3)Kept in protected environments under human care
+3)Two or more similar characters are used
+3)Intrinsic growth is a characteristic of all living organisms
+3)Cyanobacteria, fungi and mosses
+3)Described nearly ten thousand plants and animal species
+3)Two Latin names and author's name in Italics
+3)Identification and grouping of organisms
+3)External and internal structure
+3)Hortus Cliffortianus
+3)Synonyms
+3)Four
+3)Genus
+3)Phylum—order—class—tribe—family—genus—species
+3)Do not grow together in a common habitat
+3)Polygamic
+3)Solanum, Petunia and Atrop
+3)Division and phylum
+3)Different category of same taxa
+3)Mammalia and Insecta
+3)-phyceae
+3)Ernst Mayr; mechanical isolation
+3)Class
+3)They both are morphologically and structurally similar to each other in all respects
+3)Related orders like carnivora, primata, etc.
+3)Division – Angiospermae
+3)“phyta”
+3)International codes used for nomenclature
+3)Local names
+3)A 
+3)The first word in a biological name represents the genus name and the second is a specific epithet
+3)Key is a taxonomic aid for identification of specimens
+3)Animalia
+3)Isolated metabolic reactions occur 
+3)Interaction with the environment and progressive evolution
+3)International Code of Botanical Nomenclature
+3)Have more than 90 per cent similar genes
+3)The classification of organisms based on their evolutionary history and establishing their phylogeny on
+3)A list of botanists or zoologists who have worked on taxonomy of a species or group
+3)S
+3)Clines
+3)Class
+3)Artificial concept of human mind which cannot be defined in absolute terms
+3)Each species is reproductively isolated from every other species
+3)They allow 
+3)Amoeba3)Self-regulating interactive systems
+3)The growth is due to the accumulation of material on the surface
+3)Are specific and distinct names
+3)Biological names are printed in italics
+3)Author’s name, specific name and generic name
+3)These have two components – the generic name and specific epithet
+3)Two names, one Latin and other common
+3)Human beings belong to the species 
+3)Evolutionary relationships between organisms
+3)They always have “linn” abbreviation at the end of second component
+3)First nomenclature then characterization, identification and classification
+3)Generic name must begin with capital letter
+3)Class 
+3)Primate
+3)S
+3)A - Class; B - Family
+3)a(ii), b(i), c(i), d(iii)
+3)Hominidae
+3)Poaceae and Canidae
+3)External and internal structure
+3)Division and ph
+3)Solanum, 
+3)Solunum, Petunia
+3)Division, family, order, genus
+3)One biological genera
+3)Museum
+3)Preserved insects in boxes after collecting killing and pinning
+3)Flora, manuals and monographs only
+3)A taxonomical aid used for identifying various organisms
+3)Kept in protected environments under human care
+3)Two or more similar characters are used
+3)Intrinsic growth is a characteristic of all living organisms
+3)Cyanobacteria, fungi and mosses
+3)Described nearly ten thousand plants and animal species
+3)Two Latin names and author's name in Italics
+3)Identification and grouping of organisms
+3)External and internal structure
+3)Hortus Cliffortianus
+3)Synonyms
+3)Four
+3)Genus
+3)Phylum—order—class—tribe—family—genus—species
+3)Do not grow together in a common habitat
+3)Polygamic
+3)Solanum, Petunia and Atrop
+3)Division and phylum
+3)Different category of same taxa
+3)Mammalia and Insecta
+3)-phyceae
+3)Ernst Mayr; mechanical isolation
+3)Class
+3)They both are morphologically and structurally similar to each other in all respects
+3)Related orders like carnivora, primata, etc.
+3)Division – Angiospermae
+3)“phyta”
+3)International codes used for nomenclature
+3)Botanical gardens
+3)Local names
+3)A 
+3)The first word in a biological name represents the genus name and the second is a specific epithet
+3)Key is a taxonomic aid for identification of specimens
+3)Animalia
+3)Isolated metabolic reactions occur 
+3)Interaction with the environment and progressive evolution
+3)International Code of Botanical Nomenclature
+3)Have more than 90 per cent similar genes
+3)The classification of organisms based on their evolutionary history and establishing their phylogeny on
+3)A list of botanists or zoologists who have worked on taxonomy of a species or group
+3)S
+3)Clines
+3)Class
+3)Artificial concept of human mind which cannot be defined in absolute terms
+3)Each species is reproductively isolated from every other species
+3)They allow 
+3)Amoeba3)Self-regulating interactive systems
+3)The growth is due to the accumulation of material on the surface
+3)Are specific and distinct names
+3)Biological names are printed in italics
+3)Author’s name, specific name and generic name
+3)These have two components – the generic name and specific epithet
+3)Two names, one Latin and other common
+3)Human beings belong to the species 
+3)Evolutionary relationships between organisms
+3)They always have “linn” abbreviation at the end of second component
+3)First nomenclature then characterization, identification and classification
+3)Generic name must begin with capital letter
+3)Class 
+3)Primate
+3)S
+3)A - Class; B - Family
+3)a(ii), b(i), c(i), d(iii)
+3)Hominidae
+3)Poaceae and Canidae
+3)External and internal structure
+3)Division and ph
+3)Solanum, 
+3)Solunum, Petunia
+3)Division, family, order, genus
+3)One biological genera
+3)Museum
+3)Preserved insects in boxes after collecting killing and pinning
+3)Flora, manuals and monographs only
+3)A taxonomical aid used for identifying various organisms
+3)Kept in protected environments under human care
+3)Two or more similar characters are used
+3)Intrinsic growth is a characteristic of all living organisms
+3)Cyanobacteria, fungi and mosses
+3)Described nearly ten thousand plants and animal species
+3)Two Latin names and author's name in Italics
+3)Identification and grouping of organisms
+3)External and internal structure
+3)Hortus Cliffortianus
+3)Synonyms
+3)Four
+3)Genus
+3)Phylum—order—class—tribe—family—genus—species
+3)Do not grow together in a common habitat
+3)Polygamic
+3)Solanum, Petunia and Atrop
+3)Division and phylum
+3)Different category of same taxa
+3)Mammalia and Insecta
+3)-phyceae
+3)Ernst Mayr; mechanical isolation
+3)Class
+3)They both are morphologically and structurally similar to each other in all respects
+3)Related orders like carnivora, primata, etc.
+3)Division – Angiospermae
+3)“phyta”
+3)International codes used for nomenclature
+3)Botanical gardens
+3)Local names
+3)A 
+3)The first word in a biological name represents the genus name and the second is a specific epithet
+3)Key is a taxonomic aid for identification of specimens
+3)Animalia
+3)Isolated metabolic reactions occur 
+3)Interaction with the environment and progressive evolution
+3)International Code of Botanical Nomenclature
+3)Have more than 90 per cent similar genes
+3)The classification of organisms based on their evolutionary history and establishing their phylogeny on
+3)A list of botanists or zoologists who have worked on taxonomy of a species or group
+3)S
+3)Clines
+3)Class
+3)Artificial concept of human mind which cannot be defined in absolute terms
+3)Each species is reproductively isolated from every other species
+3)They allow 
+3)Amoeba3)Self-regulating interactive systems
+3)The growth is due to the accumulation of material on the surface
+3)Are specific and distinct names
+3)Biological names are printed in italics
+3)Author’s name, specific name and generic name
+3)These have two components – the generic name and specific epithet
+3)Two names, one Latin and other common
+3)Human beings belong to the species 
+3)Evolutionary relationships between organisms
+3)They always have “linn” abbreviation at the end of second component
+3)First nomenclature then characterization, identification and classification
+3)Generic name must begin with capital letter
+3)Class 
+3)Primate
+3)S
+3)A - Class; B - Family
+3)a(ii), b(i), c(i), d(iii)
+3)Hominidae
+3)Poaceae and Canidae
+3)External and internal structure
+3)Division and ph
+3)Solanum, 
+3)Solunum, Petunia
+3)Division, family, order, genus
+3)One biological genera
+3)Museum
+3)Preserved insects in boxes after collecting killing and pinning
+3)Flora, manuals and monographs only
+3)A taxonomical aid used for identifying various organisms
+3)Kept in protected environments under human care
+3)Two or more similar characters are used
+3)Intrinsic growth is a characteristic of all living organisms
+3)Cyanobacteria, fungi and mosses
+3)Described nearly ten thousand plants and animal species
+3)Two Latin names and author's name in Italics
+3)Identification and grouping of organisms
+3)External and internal structure
+3)Hortus Cliffortianus
+3)Synonyms
+3)Four
+3)Genus
+3)Phylum—order—class—tribe—family—genus—species
+3)Do not grow together in a common habitat
+3)Polygamic
+3)Solanum, Petunia and Atrop
+3)Division and phylum
+3)Different category of same taxa
+3)Mammalia and Insecta
+3)-phyceae
+3)Ernst Mayr; mechanical isolation
+3)Class
+3)They both are morphologically and structurally similar to each other in all respects
+3)Related orders like carnivora, primata, etc.
+3)Division – Angiospermae
+3)“phyta”
+3)International codes used for nomenclature
+3)A 
+3)The first word in a biological name represents the genus name and the second is a specific epithet
+3)Key is a taxonomic aid for identification of specimens
+3)Animalia
+3)Isolated metabolic reactions occur 
+3)Interaction with the environment and progressive evolution
+3)International Code of Botanical Nomenclature
+3)Have more than 90 per cent similar genes
+3)The classification of organisms based on their evolutionary history and establishing their phylogeny on
+3)A list of botanists or zoologists who have worked on taxonomy of a species or group
+3)S
+3)Clines
+3)Class
+3)Artificial concept of human mind which cannot be defined in absolute terms
+3)Each species is reproductively isolated from every other species
+3)They allow 
+3)Amoeba3)Self-regulating interactive systems
+3)The growth is due to the accumulation of material on the surface
+3)Are specific and distinct names
+3)Biological names are printed in italics
+3)Author’s name, specific name and generic name
+3)These have two components – the generic name and specific epithet
+3)Two names, one Latin and other common
+3)Human beings belong to the species 
+3)Evolutionary relationships between organisms
+3)They always have “linn” abbreviation at the end of second component
+3)First nomenclature then characterization, identification and classification
+3)Generic name must begin with capital letter
+3)Class 
+3)Primate
+3)S
+3)Hominidae
+3)Poaceae and Canidae
+3)External and internal structure
+3)Division and ph
+3)Solanum, 
+3)Solunum, Petunia
+3)Division, family, order, genus
+3)One biological genera
+3)Museum
+3)Preserved insects in boxes after collecting killing and pinning
+3)Flora, manuals and monographs only
+3)A taxonomical aid used for identifying various organisms
+3)Kept in protected environments under human care
+3)Two or more similar characters are used
+3)Intrinsic growth is a characteristic of all living organisms
+3)Cyanobacteria, fungi and mosses
+3)Described nearly ten thousand plants and animal species
+3)Two Latin names and author's name in Italics
+3)Identification and grouping of organisms
+3)External and internal structure
+3)Hortus Cliffortianus
+3)Synonyms
+3)Four
+3)Genus
+3)Phylum—order—class—tribe—family—genus—species
+3)Do not grow together in a common habitat
+3)Polygamic
+3)Solanum, Petunia and Atrop
+3)Division and phylum
+3)Different category of same taxa
+3)Mammalia and Insecta
+3)-phyceae
+3)Ernst Mayr; mechanical isolation
+3)Class
+3)They both are morphologically and structurally similar to each other in all respects
+3)Related orders like carnivora, primata, etc.
+3)Division – Angiospermae
+3)“phyta”
+3)International codes used for nomenclature
+3)Botanical gardens
+3)Local names
+3)A 
+3)The first word in a biological name represents the genus name and the second is a specific epithet
+3)Key is a taxonomic aid for identification of specimens
+3)Animalia
+3)Isolated metabolic reactions occur 
+3)Interaction with the environment and progressive evolution
+3)International Code of Botanical Nomenclature
+3)Have more than 90 per cent similar genes
+3)The classification of organisms based on their evolutionary history and establishing their phylogeny on
+3)A list of botanists or zoologists who have worked on taxonomy of a species or group
+3)S
+3)Clines
+3)Class
+3)Artificial concept of human mind which cannot be defined in absolute terms
+3)Each species is reproductively isolated from every other species
+3)They allow 
+3)Amoeba3)Self-regulating interactive systems
+3)The growth is due to the accumulation of material on the surface
+3)Are specific and distinct names
+3)Biological names are printed in italics
+3)Author’s name, specific name and generic name
+3)These have two components – the generic name and specific epithet
+3)Two names, one Latin and other common
+3)Human beings belong to the species 
+3)Evolutionary relationships between organisms
+3)They always have “linn” abbreviation at the end of second component
+3)First nomenclature then characterization, identification and classification
+3)Generic name must begin with capital letter
+3)Class 
+3)Primate
+3)S
+3)Hominidae
+3)Poaceae and Canidae
+3)External and internal structure
+3)Division and ph
+3)Solanum, 
+3)Solunum, Petunia
+3)Division, family, order, genus
+3)One biological genera
+3)Museum
+3)Preserved insects in boxes after collecting killing and pinning
+3)Flora, manuals and monographs only
+3)A taxonomical aid used for identifying various organisms
+3)Kept in protected environments under human care
+3)Two or more similar characters are used
+3)Intrinsic growth is a characteristic of all living organisms
+3)Cyanobacteria, fungi and mosses
+3)Described nearly ten thousand plants and animal species
+3)Two Latin names and author's name in Italics
+3)Identification and grouping of organisms
+3)External and internal structure
+3)Hortus Cliffortianus
+3)Synonyms
+3)Four
+3)Genus
+3)Phylum—order—class—tribe—family—genus—species
+3)Do not grow together in a common habitat
+3)Polygamic
+3)Solanum, Petunia and Atrop
+3)Division and phylum
+3)Different category of same taxa
+3)Mammalia and Insecta
+3)-phyceae
+3)Ernst Mayr; mechanical isolation
+3)Class
+3)They both are morphologically and structurally similar to each other in all respects
+3)Related orders like carnivora, primata, etc.
+3)Division – Angiospermae
+3)“phyta”
+3)International codes used for nomenclature
+3)Division
+3)Two
+3)Botanical gardens
+3)Local names
+3)A 
+3)The first word in a biological name represents the genus name and the second is a specific epithet
+3)Key is a taxonomic aid for identification of specimens
+3)Animalia
+3)Isolated metabolic reactions occur 
+3)Interaction with the environment and progressive evolution
+3)International Code of Botanical Nomenclature
+3)Have more than 90 per cent similar genes
+3)The classification of organisms based on their evolutionary history and establishing their phylogeny on
+3)A list of botanists or zoologists who have worked on taxonomy of a species or group
+3)S
+3)Clines
+3)Class
+3)Artificial concept of human mind which cannot be defined in absolute terms
+3)Each species is reproductively isolated from every other species
+3)They allow 
+3)Amoeba3)Self-regulating interactive systems
+3)The growth is due to the accumulation of material on the surface
+3)Are specific and distinct names
+3)Biological names are printed in italics
+3)Author’s name, specific name and generic name
+3)These have two components – the generic name and specific epithet
+3)Two names, one Latin and other common
+3)Human beings belong to the species 
+3)Evolutionary relationships between organisms
+3)They always have “linn” abbreviation at the end of second component
+3)First nomenclature then characterization, identification and classification
+3)Generic name must begin with capital letter
+3)Class 
+3)Primate
+3)Hominidae
+3)Poaceae and Canidae
+3)External and internal structure
+3)Division and ph
+3)Solanum, 
+3)Solunum, Petunia
+3)Division, family, order, genus
+3)One biological genera
+3)Museum
+3)Preserved insects in boxes after collecting killing and pinning
+3)Flora, manuals and monographs only
+3)A taxonomical aid used for identifying various organisms
+3)Kept in protected environments under human care
+3)Two or more similar characters are used
+3)Intrinsic growth is a characteristic of all living organisms
+3)Cyanobacteria, fungi and mosses
+3)Described nearly ten thousand plants and animal species
+3)Two Latin names and author's name in Italics
+3)Identification and grouping of organisms
+3)External and internal structure
+3)Hortus Cliffortianus
+3)Synonyms
+3)Four
+3)Genus
+3)Phylum—order—class—tribe—family—genus—species
+3)Do not grow together in a common habitat
+3)Polygamic
+3)Solanum, Petunia and Atrop
+3)Division and phylum
+3)Different category of same taxa
+3)Mammalia and Insecta
+3)-phyceae
+3)Ernst Mayr; mechanical isolation
+3)Class
+3)They both are morphologically and structurally similar to each other in all respects
+3)Related orders like carnivora, primata, etc.
+3)Division – Angiospermae
+3)“phyta”
+3)International codes used for nomenclature
+3)Division
+3)Two
+3)Botanical gardens
+3)Local names
+3)A 
+3)The first word in a biological name represents the genus name and the second is a specific epithet
+3)Key is a taxonomic aid for identification of specimens
+3)Animalia
+3)Isolated metabolic reactions occur 
+3)Interaction with the environment and progressive evolution
+3)International Code of Botanical Nomenclature
+3)Have more than 90 per cent similar genes
+3)The classification of organisms based on their evolutionary history and establishing their phylogeny on
+3)A list of botanists or zoologists who have worked on taxonomy of a species or group
+3)S
+3)Clines
+3)Class
+3)Artificial concept of human mind which cannot be defined in absolute terms
+3)Each species is reproductively isolated from every other species
+3)They allow 
+3)Amoeba
